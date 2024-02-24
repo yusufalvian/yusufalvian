@@ -2,8 +2,7 @@ My tools :
 - code editor -> vscode
 - note taking app -> obsidian
 - OS -> linux ubuntu on windows (wsl)
-- programming language : typescript and go
-- database : postgreSQL
+- programming language : typescript, go, SQL
 
 
 
