@@ -1,2 +1,2 @@
 # Hi there 👋
-- [boilerplate ](https://github.com/yusufalvian/prisma-sqlite-ts)
+- [boilerplate ts-prisma-sqlite](https://github.com/yusufalvian/prisma-sqlite-ts)
