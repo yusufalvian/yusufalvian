@@ -1,1 +1,1 @@
-I am really passionate building reliable and scalable software to solve real world problem. Currently working as software engineer (backend) at [Mceasy](https://www.mceasy.com/). 
+I am really passionate building reliable and scalable software to solve real world problem and make contribute to make the world a little better place. Currently working as software engineer (backend) at [Mceasy](https://www.mceasy.com/). 
