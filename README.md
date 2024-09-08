@@ -1,3 +1,7 @@
+<p align="center">
+	<a href="https://github.com/yusufalvian/yusufalvian/blob/main/202408_WandaYusufAlvian.html"><img src="cv.svg" alt="Curriculum Vitae"></a>
+</p>
+
 I am a software engineer (backend) at [Mceasy](https://www.mceasy.com/), currently working on [Video Monitoring](https://www.mceasy.com/solusi/video-monitoring/) and [Report and Analytic](https://www.mceasy.com/solusi/report-and-analytics/). I have a passion for crafting rock-solid, scalable software that doesn't just work – it thrives. Equipped with a diverse skill set and a quick learning curve, I can adapt swiftly to new technologies to tackle complex challenges head-on. When not architecting efficient systems, I explores the DevOps and Linux landscape. 
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
