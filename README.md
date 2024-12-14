@@ -1,4 +1,6 @@
-I am a software engineer (backend) at [Mceasy](https://www.mceasy.com/), currently working on [Video Monitoring](https://www.mceasy.com/solusi/video-monitoring/) and [Report and Analytic](https://www.mceasy.com/solusi/report-and-analytics/). I have a passion for crafting rock-solid, scalable software that doesn't just work – it thrives. Equipped with a diverse skill set and a quick learning curve, I can adapt swiftly to new technologies to tackle complex challenges head-on. I can work independently effectively with minimum supervision. 
+I am a software engineer (Backend) at [Mceasy](https://www.mceasy.com/), currently working on [Video Monitoring](https://www.mceasy.com/solusi/video-monitoring/) and [Report and Analytic](https://www.mceasy.com/solusi/report-and-analytics/). I have a passion for crafting rock-solid, scalable software that doesn't just work – it thrives. Equipped with a diverse skill set and a quick learning curve, I can adapt swiftly to new technologies to tackle complex challenges head-on. I can work independently effectively with minimum supervision. 
+
+At my spare time, currently learning Frontend Dev using React
 
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
