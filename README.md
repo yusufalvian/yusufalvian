@@ -11,4 +11,4 @@ At my spare time, currently learning Frontend Dev using React
 ![](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-💼 My CV is available on request, but I'm not looking for a job right now.
+💼 My CV is available on request. Interested to work remotely as founding software engineer in high growth startup
