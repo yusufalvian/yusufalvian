@@ -2,4 +2,4 @@ I am a software engineer at [Mceasy](https://www.mceasy.com/), currently working
 
 Software Engineer should be "Fullstack" and has customer obsession. Juggling between frontend, backend, infra, and product to deliver high quality software to meet customer satisfaction 
 
-💼 My CV is available on request. Interested to work remotely as founding software engineer in high growth startup
+💼 My CV is available on request. Interested to work remotely as Fullstask Software Engineer
