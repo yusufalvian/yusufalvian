@@ -6,4 +6,9 @@ Software Engineer should be "Fullstack" and has customer obsession. Juggling bet
 
 :computer: My current tech stack 
 
-- f
+- Fullstack javascript + React
+- Go -> if i need high performance standalone backend that need concurrency 
+- ChatGPT, Github Copilot
+- V0.dev
+- Firebase (hosting, function, firestore)
+
