@@ -5,4 +5,5 @@ Software Engineer should be "Fullstack" and has customer obsession. Juggling bet
 💼 My CV is available on request. Interested to work remotely as Fullstask Software Engineer
 
 :computer: My current tech stack 
-- 
+
+- f
