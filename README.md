@@ -9,7 +9,7 @@ Software Engineer should be "Fullstack" and has customer obsession. Juggling bet
 - Fullstack javascript + React
 - Go -> if i need high performance standalone backend
 - ChatGPT, Github Copilot
-- V0.dev
+- V0.dev, bolt.new
 - Firebase (hosting, function, firestore)
 - VsCode
 - Flameshot -> i take a lot of screenshot
