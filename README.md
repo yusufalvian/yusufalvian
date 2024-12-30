@@ -11,4 +11,7 @@ Software Engineer should be "Fullstack" and has customer obsession. Juggling bet
 - ChatGPT, Github Copilot
 - V0.dev
 - Firebase (hosting, function, firestore)
+- VsCode
+- Flameshot -> i take a lot of screenshot
+- Obsidian -> my second brain
 
