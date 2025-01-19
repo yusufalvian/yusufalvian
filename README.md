@@ -6,3 +6,4 @@ Tech Stack
 - Programming Language : Javascript, Golang, Python
 - Framework : React
 - Database : PostgreSQL, Redis
+- Developer Tools : Git, Linux
