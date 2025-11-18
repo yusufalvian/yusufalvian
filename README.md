@@ -1,2 +1,4 @@
 software I have built
-- [acuris](https://acuris.ai/) 
+- [acuris](https://acuris.ai/) (as founding engineer)
+- [apotekdigital](https://apotekdigital.com/) (as fullstack software engineer)
+- [mceasy](https://www.mceasy.com/en/) (as backend engineer) 
